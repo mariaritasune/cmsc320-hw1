@@ -5,13 +5,20 @@ Answer: It's a safe way to code with multiple people. It saves a version everyti
 you can go back to it if something goes wrong. It has branches that let you code without messing up the working
 code version.
 
+
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: I believe it can be applied to every field as all have data. An example would be in agriculture,
 like tracking cattle/crops to detect problems early on.
+
 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging joins the two branches, and by doing that it creates a new merge to commit.
 While Rebasing basically pastes the new commit on top of the other branch with no extra commit.
 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm really looking forward at meeting new peoplw in my major and working on the group project with 
+my team.
